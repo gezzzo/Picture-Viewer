@@ -1,0 +1,40 @@
+F:\projects c#\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+F:\projects c#\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+F:\projects c#\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+F:\projects c#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojResolveAssemblyReference.cache
+F:\projects c#\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+F:\projects c#\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+F:\projects c#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.Cache
+F:\projects c#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+F:\projects c#\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.pdb
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csprojResolveAssemblyReference.cache
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\Microsoft\Desktop\Picture Viewer\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.Cache
+F:\Downloads\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+F:\Downloads\Picture Viewer\obj\Debug\Picture Viewer.exe
+F:\Downloads\Picture Viewer\obj\Debug\Picture Viewer.pdb
+F:\Downloads\Picture Viewer\bin\Debug\Picture Viewer.exe
+F:\Downloads\Picture Viewer\bin\Debug\Picture Viewer.pdb
+F:\Downloads\Picture Viewer\obj\Debug\Picture Viewer.csprojResolveAssemblyReference.cache
+F:\Downloads\Picture Viewer\obj\Debug\Picture_Viewer.Form1.resources
+F:\Downloads\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+F:\Downloads\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.Cache
+F:\Downloads\محمد فتوح محمود\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+F:\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\Picture Viewer.exe
+F:\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\Picture Viewer.pdb
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\bin\Debug\Picture Viewer.exe.config
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\bin\Debug\Picture Viewer.exe
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\bin\Debug\Picture Viewer.pdb
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\Picture Viewer.csprojAssemblyReference.cache
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\Picture_Viewer.Properties.Resources.resources
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\Picture Viewer.csproj.GenerateResource.cache
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\Picture Viewer.csproj.CoreCompileInputs.cache
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\Picture Viewer.exe
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\Picture Viewer.pdb
+C:\Users\modom\Downloads\محمد فتوح محمود\Picture Viewer\obj\Debug\images_viewer.Picture_viewer.resources
